@@ -68,3 +68,17 @@ All labs were conducted on **TryHackMe’s controlled virtual environments** —
 💼 Cybersecurity & IT Engineer  
 🌐 [CyberWithSandiso.com](https://cyberwithsandiso.com)  
 📂 [GitHub Portfolio](https://github.com/SandisoMayekiso)
+
+📂 TryHackMe-Writeups/
+ ┣ 📁 Network-Scanning/
+ ┃ ┣ Nmap-Lab.md
+ ┃ ┗ NetSecMod04.md
+ ┣ 📁 Privilege-Escalation/
+ ┃ ┣ Linux-Privesc.md
+ ┃ ┗ Windows-Privesc.md
+ ┣ 📁 Exploitation/
+ ┃ ┣ Metasploit-Lab.md
+ ┃ ┗ Buffer-Overflow.md
+ ┣ 📄 README.md
+ ┗ 📄 .gitignore
+
