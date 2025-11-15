@@ -56,8 +56,10 @@ All labs were conducted on **TryHackMe’s controlled virtual environments** —
 
 | Lab | Preview |
 |------|----------|
-| Network Scanning | ![Nmap Scan](images/nmap-lab.png) |
-| Privilege Escalation | ![Linux PrivEsc](images/linux-privesc.png) |
+| Network Scanning | ![Nmap Scan](<img width="1324" height="640" alt="image" src="https://github.com/user-attachments/assets/623a2e76-4f2b-4f67-89d0-551ce859642b" />
+) |
+| Privilege Escalation | ![Linux PrivEsc](<img width="850" height="610" alt="image" src="https://github.com/user-attachments/assets/8fe94bc0-81a7-4096-b165-830dac3fdcf5" />
+) |
 | Exploitation | ![Metasploit Lab](images/metasploit.png) |
 
 ---
