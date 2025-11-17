@@ -64,6 +64,17 @@ All labs were conducted on **TryHackMe’s controlled virtual environments** —
 ) |
 | Exploitation | ![Metasploit Lab](<img width="860" height="611" alt="tryhackme-labs6" src="<img width="747" height="557" alt="eternalblue3" src="https://github.com/user-attachments/assets/de457874-cfbd-488b-b0be-21734627dc96" />
 " />
+
+| More | ![tryhackme Lab](<img width="860" height="611" alt="tryhackme-labs6" src="<img width="747" height="557" alt="eternalblue3" src="<img width="746" height="547" alt="eternalblue1" src="https://github.com/user-attachments/assets/da352d9f-2678-424f-8362-bdacd6f02548" />
+" />
+
+| more | ![tryhackme Lab](<img width="860" height="611" alt="tryhackme-labs6" src="<img width="747" height="557" alt="eternalblue3" src="<img width="748" height="593" alt="eternalblue4" src="https://github.com/user-attachments/assets/19ffb0f3-09cd-4e3a-abec-a46e2bdd82c1" />
+" />
+
+| more | ![tryhackme Lab](<img width="860" height="611" alt="tryhackme-labs6" src="<img width="747" height="557" alt="eternalblue3" src="<img width="748" height="593" alt="eternalblue4" src="<img width="869" height="375" alt="tryhackme-labs8" src="https://github.com/user-attachments/assets/1bde54ec-ce19-41c1-9624-cd0d6c2520a0" />
+" />
+" />
+" />
 ) |
 
 ---
