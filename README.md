@@ -60,7 +60,8 @@ All labs were conducted on **TryHackMe’s controlled virtual environments** —
 ) |
 | Privilege Escalation | ![Linux PrivEsc](<img width="850" height="610" alt="image" src="https://github.com/user-attachments/assets/8fe94bc0-81a7-4096-b165-830dac3fdcf5" />
 ) |
-| Exploitation | ![Metasploit Lab](images/metasploit.png) |
+| Exploitation | ![Metasploit Lab](<img width="860" height="611" alt="tryhackme-labs6" src="https://github.com/user-attachments/assets/80fd4cf2-f60b-4de9-8f8f-3b9f3e582328" />
+) |
 
 ---
 
