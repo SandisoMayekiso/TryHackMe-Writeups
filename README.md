@@ -56,11 +56,14 @@ All labs were conducted on **TryHackMe’s controlled virtual environments** —
 
 | Lab | Preview |
 |------|----------|
-| Network Scanning | ![Nmap Scan](<img width="1324" height="640" alt="image" src="https://github.com/user-attachments/assets/623a2e76-4f2b-4f67-89d0-551ce859642b" />
+| Network Scanning | ![Nmap Scan](<img width="1324" height="640" alt="image" src="<img width="746" height="582" alt="eternalblue" src="https://github.com/user-attachments/assets/1017ffec-5c68-4d11-9c47-2f352eee0033" />
+" />
 ) |
-| Privilege Escalation | ![Linux PrivEsc](<img width="850" height="610" alt="image" src="https://github.com/user-attachments/assets/8fe94bc0-81a7-4096-b165-830dac3fdcf5" />
+| Privilege Escalation | ![Linux PrivEsc](<img width="850" height="610" alt="image" src="<img width="752" height="554" alt="eternalblue2" src="https://github.com/user-attachments/assets/c10124c5-f679-4141-9e0c-070ac5817646" />
+" />
 ) |
-| Exploitation | ![Metasploit Lab](<img width="860" height="611" alt="tryhackme-labs6" src="https://github.com/user-attachments/assets/80fd4cf2-f60b-4de9-8f8f-3b9f3e582328" />
+| Exploitation | ![Metasploit Lab](<img width="860" height="611" alt="tryhackme-labs6" src="<img width="747" height="557" alt="eternalblue3" src="https://github.com/user-attachments/assets/de457874-cfbd-488b-b0be-21734627dc96" />
+" />
 ) |
 
 ---
